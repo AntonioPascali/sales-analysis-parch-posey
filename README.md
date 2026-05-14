@@ -26,3 +26,7 @@ Parch & Posey sample database
 ## Output
 - Sales trend chart
 - Top customers Excel file
+
+## Sales Trend
+
+![Sales Chart](grafico_vendite.png)
